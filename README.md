@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/python-v3.9-blue)
 ![Streamlit](https://img.shields.io/badge/streamlit-v0.87-orange)
-![GitHub](https://img.shields.io/github/license/yourusername/sms-spam-classifier)
 
 This repository contains a SMS spam classifier project built using Natural Language Processing (NLP) and Streamlit. The goal of this project is to develop a machine learning model that can accurately classify SMS messages as either spam or non-spam (ham). The project is hosted using Streamlit, allowing users to interact with the model through a user-friendly web interface.
 
@@ -23,7 +22,7 @@ To run the SMS spam classifier locally, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/sms-spam-classifier.git
+git clone https://github.com/0712Anand/SMS-Email-Spam-Classifier
 cd sms-spam-classifier
 ```
 
