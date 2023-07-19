@@ -22,7 +22,8 @@ To run the SMS spam classifier locally, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/0712Anand/SMS-Email-Spam-Classifier
+git clone https://github.com/0712Anand/SMS-Email-Spam-Classifier-
+
 cd sms-spam-classifier
 ```
 
