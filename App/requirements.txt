@@ -1,5 +1,5 @@
 streamlit
 nltk
-sklearn
+scikit-learn
 string
 pickle
