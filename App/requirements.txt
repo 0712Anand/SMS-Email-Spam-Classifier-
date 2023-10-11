@@ -1,4 +1,6 @@
 streamlit
 nltk
 scikit-learn
+pickle
+string
 
